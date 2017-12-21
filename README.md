@@ -1,5 +1,5 @@
 # optimal-e
-An assignment I did in computer security.
+An assignment I did for a computer security class.
 
 Original instructions:
 The purpose of this assignment is to find various e and d values such that gcd(e,phi) = 1 and e(d) mod phi = 1 which produce the minimum number of multiplications for encryption and decryption for the RSA algorithm.
