@@ -1,8 +1,4 @@
 '''
-Scott Lacz
-CSIT460-01 Computer Security
-Assignment 5 - RSA
-
 This program finds the optimal e and d values needed for encrypting and decrypting messages using RSA.
 It also displays the total multiplications, which is how the optimal values are determined.
 '''
